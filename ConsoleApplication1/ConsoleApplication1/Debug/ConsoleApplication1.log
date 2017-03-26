@@ -1,0 +1,21 @@
+﻿  ConsoleApplication1.cpp
+c:\users\sdeep\downloads\mwdb task 3\ffmpeg\dev\include\libavutil\common.h(162): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\sdeep\downloads\mwdb task 3\ffmpeg\dev\include\libavutil\common.h(173): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+c:\users\sdeep\downloads\mwdb task 3\ffmpeg\dev\include\libavutil\common.h(184): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+c:\users\sdeep\downloads\mwdb task 3\ffmpeg\dev\include\libavutil\common.h(195): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 11 has type 'const uint64_t'
+  c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): note: consider using '%lld' in the format string
+  c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): note: consider using '%I64d' in the format string
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(77): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 11 has type 'const uint64_t'
+  c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(77): note: consider using '%lld' in the format string
+  c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(77): note: consider using '%I64d' in the format string
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4100: 'cached': unreferenced formal parameter
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(97): warning C4459: declaration of 'fmt_ctx' hides global declaration
+  c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): note: see declaration of 'fmt_ctx'
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(136): warning C4100: 'argv': unreferenced formal parameter
+c:\users\sdeep\onedrive\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(136): warning C4100: 'argc': unreferenced formal parameter
+c:\users\sdeep\downloads\mwdb task 3\ffmpeg\dev\include\dirent.h(437): warning C4505: '_wreaddir': unreferenced local function has been removed
+c:\users\sdeep\downloads\mwdb task 3\ffmpeg\dev\include\dirent.h(794): warning C4505: 'rewinddir': unreferenced local function has been removed
+  ConsoleApplication1.vcxproj -> C:\Users\sdeep\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\sdeep\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
